@@ -1,0 +1,1 @@
+{0: 'Sawi Ada Hama', 1: 'Sawi Tanpa Hama'}
